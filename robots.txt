@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://inndesigns.github.io/kitchen-design/sitemapx.xml
